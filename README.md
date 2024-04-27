@@ -10,8 +10,8 @@
 
 ### 📚 Projects 📚
 
-- [HeadHunter (job search platform) CV analysis](https://github.com/GetterGit/HeadHunter-CV-analysis)
-- [Bank churn analysis](https://github.com/GetterGit/Bank-churn-analysis)
+- [HeadHunter (job search platform) CV analysis](https://github.com/GetterGit/HeadHunter-CV-analysis){target="\_blank"}
+- [Bank churn analysis](https://github.com/GetterGit/Bank-churn-analysis){target="\_blank"}
 
 ### 💡 Core competences 💡
 
@@ -39,8 +39,8 @@
 
 ### 🙌🏻 Get in touch
 
-- [Telegram](t.me/valerii_anufriev)
-- [LinkedIn](https://www.linkedin.com/in/valeriyanufriev/)
-- [E-mail](anufriev.valeriy.m@gmail.com)
+- [Telegram](t.me/valerii_anufriev){target="\_blank"}
+- [LinkedIn](https://www.linkedin.com/in/valeriyanufriev/){target="\_blank"}
+- [E-mail](anufriev.valeriy.m@gmail.com){target="\_blank"}
 
 ---
