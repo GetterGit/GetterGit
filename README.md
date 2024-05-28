@@ -8,7 +8,7 @@
 
 - In my spare time, learning various data analytics and ML tools
 
-### 📚 Projects 📚
+### 📚 Spare-time projects 📚
 
 - [HeadHunter (job search platform) CV analysis](https://github.com/GetterGit/HeadHunter-CV-analysis)
 - [Bank churn analysis](https://github.com/GetterGit/Bank-churn-analysis)
