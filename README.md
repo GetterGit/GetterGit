@@ -41,7 +41,7 @@
 ### ⚡️ Currently ⚡️
 
 - Developing on-chain data analytics tools for marketing and product teams of Web3 projects
-- Looking for a role of data analyst, preferrably in Web3 but happy to consider all options as I enjoy working with data, providing actionable insights, and testing rsulting product hypotheses
+- Conducting on-demand Web3 data analytics: tokenomics analysis, community segmentation, on-chain attribution
 
 ### 🙌🏻 Get in touch
 
