@@ -14,6 +14,11 @@
 - [HeadHunter (job search platform) CV analysis](https://github.com/GetterGit/HeadHunter-CV-analysis)
 - [Bank churn analysis](https://github.com/GetterGit/Bank-churn-analysis)
 
+### 📚 Web3 dashboards & queries 📚
+
+- [OpenCampus tokenomics research](https://dune.com/vivianu/oc-tokenomics)
+- [NFT ownership tracker](https://dune.com/vivianu/nft-collection-balances)
+
 ### 💡 Core competences 💡
 
 - Data analytics tools:
