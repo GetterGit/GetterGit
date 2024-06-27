@@ -10,6 +10,7 @@
 
 ### 📚 Spare-time projects 📚
 
+- [Booking hotel score predictions using Random Forest Regressor](https://github.com/GetterGit/Booking-hotel-score-prediction)
 - [HeadHunter (job search platform) CV analysis](https://github.com/GetterGit/HeadHunter-CV-analysis)
 - [Bank churn analysis](https://github.com/GetterGit/Bank-churn-analysis)
 
