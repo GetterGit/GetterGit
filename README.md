@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Hi there!
 
-### ✨ About me in 30 seconds ✨
+### 👋 About me in 30 seconds
 
 - For the last year, I've been working on data products in Web3, including on-chain attribution software for marketing teams and on-chain user segmentation and analytics for product teams
 
@@ -8,18 +8,18 @@
 
 - In my spare time, learning various data analytics and ML tools
 
-### 📚 Spare-time projects 📚
+### 📚 Spare-time projects
 
 - [Booking hotel score prediction using Random Forest Regressor](https://github.com/GetterGit/Booking-hotel-score-prediction)
 - [HeadHunter (job search platform) CV analysis](https://github.com/GetterGit/HeadHunter-CV-analysis)
 - [Bank churn analysis](https://github.com/GetterGit/Bank-churn-analysis)
 
-### 📚 Web3 dashboards & queries 📚
+### 📚 Web3 dashboards & queries
 
 - [OpenCampus tokenomics research](https://dune.com/vivianu/oc-tokenomics)
 - [NFT ownership tracker](https://dune.com/vivianu/nft-collection-balances)
 
-### 💡 Core competences 💡
+### 💡 Core competences
 
 - Data analytics tools:
   - Python
@@ -38,7 +38,7 @@
   - Fast proof-of-concept development & iterations
   - Extensive understanding of the business side of product development & lifecycle
 
-### ⚡️ Currently ⚡️
+### ⚡️ Currently
 
 - Developing on-chain data analytics tools for marketing and product teams of Web3 projects
 - Conducting on-demand Web3 data analytics: tokenomics analysis, community segmentation, on-chain attribution
