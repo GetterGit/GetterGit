@@ -4,9 +4,9 @@
 
 - For the last year, I've been working on data products in Web3, including on-chain attribution software for marketing teams and on-chain user segmentation and analytics for product teams
 
-- 7-year experience in technical product management: launched over 10 products generating over $15M in revenues - from smaller B2C eCommerce apps to larger B2B marketplaces and DeFi platforms
+- 7-year experience in developing software: launched over 10 products generating over $15M in revenues - from smaller B2C eCommerce apps to larger B2B marketplaces and DeFi platforms
 
-- In my spare time, learning various data analytics and ML tools
+- In my spare time, doing data analytics and experimenting ML tools
 
 ### 📚 Spare-time projects
 
