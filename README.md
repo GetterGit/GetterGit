@@ -18,6 +18,7 @@
 
 - [OpenCampus tokenomics research](https://dune.com/vivianu/oc-tokenomics)
 - [NFT ownership tracker](https://dune.com/vivianu/nft-collection-balances)
+- [$APE staking pools tracker](https://dune.com/vivianu/dollarape-staking-tvl-vs-dollarape-price)
 
 ### 💡 Core competences
 
